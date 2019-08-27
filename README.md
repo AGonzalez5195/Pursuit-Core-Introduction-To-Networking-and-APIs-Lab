@@ -165,7 +165,7 @@ https://randomuser.me/api/?results=100
 },
 
 
-1. The current stock price of Microsoft. (IEX API)
+## The current stock price of Microsoft. (IEX API)
 https://ws-api.iextrading.com/1.0/tops?symbols=MSFT
 [
 {
@@ -189,6 +189,7 @@ https://ws-api.iextrading.com/1.0/tops?symbols=MSFT
 https://api.iextrading.com/1.0/hist?date=20170515
 
 ## All the Swift language repos on Github with Pursuit in their name
+https://api.github.com/search/repositories?q=pursuit-core+language:swift&sort=stars&order=desc
 
 ## A list of all Pokemon
 https://pokeapi.co/api/v2/pokemon?limit=964
@@ -318,6 +319,7 @@ https://api.got.show/api/show/episodes
 
 
 ## A list of all songs with "Love" in the title.
+https://api.github.com/search/repositories?q=pursuit-core+language:swift&sort=stars&order=desc
 
 ## All information about Petyr Baelish from the Game of Thrones books
 https://anapioficeandfire.com/api/characters/823
